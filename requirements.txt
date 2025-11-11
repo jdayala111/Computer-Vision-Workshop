@@ -1,39 +1,10 @@
-# Python version: 3.10 o 3.11 (recomendado para la mejor compatibilidad)
-
-# ----------------------------------------
-# 1. NÚCLEO CIENTÍFICO Y MANIPULACIÓN DE DATOS
-# ----------------------------------------
-# NumPy: Manejo fundamental de arreglos N-dimensionales (imágenes)
+# Python version: 3.10 o 3.11
 numpy>=1.24.0
-
-# Matplotlib: Visualización de imágenes, gráficas y curvas de pérdida
 matplotlib>=3.7.0
-
-# Pandas: Manejo de metadatos, etiquetas y resultados (opcional pero muy útil)
 pandas>=2.0.0
-
-# Scikit-learn: Métricas de evaluación y utilidades de ML clásico (opcional pero útil)
 scikit-learn>=1.3.0
-
-# ----------------------------------------
-# 2. VISIÓN POR COMPUTADORA CLÁSICA (CV)
-# ----------------------------------------
-# OpenCV: Procesamiento de imágenes, filtros y manipulación de video
 opencv-python>=4.8.0
-
-# Scikit-image: Algoritmos de CV de alto nivel (opcional)
 scikit-image>=0.21.0
-
-# ----------------------------------------
-# 3. DEEP LEARNING (IA)
-# ----------------------------------------
-# PyTorch: El framework de Deep Learning
-# *** VERIFICA LA VERSIÓN EN EL SITIO WEB DE PYTORCH SI USAS GPU/CUDA ***
 torch>=2.1.0
-
-# Torchvision: Modelos pre-entrenados, datasets y transformaciones de imágenes
-# Debe coincidir con la versión de torch
 torchvision>=0.16.0
-
-# Librería especializada para Data Augmentation, muy recomendada para CV/DL
 albumentations>=1.3.1

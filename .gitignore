@@ -1,0 +1,5 @@
+*.zip
+datasets_piezas_te/
+.env
+env/
+imagenes_modificadas/

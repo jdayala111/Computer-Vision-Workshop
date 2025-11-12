@@ -5,7 +5,7 @@ Sigue cuidadosamente las siguientes instrucciones para instalar y tener listo el
 1. Descarga el repositorio como zip o desde la terminal con:
 `git clone https://github.com/jdayala111/Computer-Vision-Workshop.git`
 
-Para descargarlo como zip, en la pagina del repositorio hay un boton que es verde y dice *<code>* hasta abajo esta la opción de descargar el repositorio como *.zip*
+Para descargarlo como zip, en la pagina del repositorio hay un boton que es verde y dice **code** hasta abajo esta la opción de descargar el repositorio como **.zip**
 
 2. Instala Visual Studio Code desde la Microsoft Store o desde la pagina oficial de Visual Studio:
 [Download Visual Studio Code](https://code.visualstudio.com/)

@@ -6,14 +6,15 @@ Instrucciones y material para el curso de Computer Vision.
 
 2. Instala Visual Studio Code desde la Microsoft Store o desde la pagina oficial de Visual Studio:
 [Download Visual Studio Code](https://code.visualstudio.com/)
+![ImagenVSCODE](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20173455.png)
 
-3. Instala Python desde la Microsoft Store, procura instalar la **versión 3.12**.
+4. Instala Python desde la Microsoft Store, procura instalar la **versión 3.12**.
 
-4. En Visual Studio Code en el area de extensiones instala el plugin de Python y de Jupyer Notebook:
+5. En Visual Studio Code en el area de extensiones instala el plugin de Python y de Jupyer Notebook:
 
-5. Ahora abre el folder donde estan los archivos del curso (el repositorio) en Visual Studio Code.
+6. Ahora abre el folder donde estan los archivos del curso (el repositorio) en Visual Studio Code.
 
-6. Aquí escoge
+7. Aquí escoge
 
 Descarga los datasets que se usarán:
 **Link:**

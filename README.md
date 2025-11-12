@@ -11,30 +11,39 @@ Sigue cuidadosamente las siguientes instrucciones para instalar y tener listo el
 ![ImagenVSCODE](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20173455.png)
 
 4. Instala Python desde la Microsoft Store, procura instalar la **versión 3.12**.
+
 ![Python](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20173318.png)
 
 5. En Visual Studio Code en el area de extensiones instala el plugin de Python y de Jupyer Notebook:
+
 ![Plugins](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20173258.png)
 ![Plugins2](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20173230.png)
 
 6. Ahora abre el folder donde estan los archivos del curso (el repositorio) en Visual Studio Code.
 
 7. Cuando ya estes en el folder del curso abre la linea de comandos:
+
 ![LineaDeComandos](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20172445.png)
 
 8. Aquí escribe `>env` y selecciona `Create Environment`
+
 ![CrearEntorno](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20172500.png)
 
-9. Sigue las instrucciones que se te pide aquí:
+9. Despues de haber seleccionado `Create Environment` te debe de aparecer lo siguiente:
+Selecciona la opción de crear `.venv`.
+
 ![crear.venv](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20172526.png)
 
 Aquí debe de aparecer el python que instalaste previamente, procura que ya este instalado en tu computadora.
+
 ![SeleccionarPython](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20172539.png)
 
 Selecciona la opción que dice: `requirements.txt` para instalar las librerias necesarias.
+
 ![InstalarDependencias](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20172554.png)
 
 Si todo sale bien te debe de aparecer que se esta creando el entorno.
+
 ![EntornoCreandose](https://github.com/jdayala111/Computer-Vision-Workshop/blob/main/doc/img/Screenshot%202025-11-11%20172651.png)
 
 Descarga los datasets que se usarán:

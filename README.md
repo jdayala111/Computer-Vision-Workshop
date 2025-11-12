@@ -52,4 +52,4 @@ Descarga los datasets que se usarán:
 **Link:**
 [Datasets](https://drive.google.com/drive/folders/1k3xGvou85mIBg9XCuz9J4X_wRi1qEdFc?usp=sharing)
 
-Cuando se hayan terminado de instalar los datasets por favor pon estas imagenes en el mismo folder/carpeta donde estan los codigos/repositorio.
+Cuando se hayan terminado de instalar los datasets por favor pon estas carpetas de imagenes en el mismo folder/carpeta donde estan los codigos/repositorio.
